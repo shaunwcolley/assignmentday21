@@ -1,0 +1,12 @@
+.thumbnailImage {
+  width:100px;
+  height:150px;
+}
+#container {
+  display: flex;
+}
+#movieDetailsDiv {
+  position: -webkit-stick;
+  position: sticky;
+  top: 0;
+}
